@@ -8,9 +8,16 @@ Takım BforV
 - Elif Çolak: Team Member/Developer
 - Halil İbrahim Aygün: Team Member/Developer
 ## Ürün İsmi
+• 2358
 ## Ürün Açıklaması
+•
 ## Ürün Özellikleri
+• Oyun türü: Aksiyon - FPS
+• Camera: First-person 
+• Game Art: Yarı gerçekçi Tarz
+• Kontroller: Klavye + Fare
 ## Hedef Kitle
+•
 ## Product Backlog URL
 [Miro Backlog Board](https://miro.com/welcomeonboard/V0dnSmZFcENNeHk4dTJYSlFobk9vOTM4SEhoSW1jbTZENkRqakRzMllrTDlpTXhnNTNCa2ZFOVRFSHN0dzZFanwzMDc0NDU3MzUyMzE3NzYzOTA0?share_link_id=435421733617)
 
