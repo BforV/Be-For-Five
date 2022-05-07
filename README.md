@@ -44,3 +44,16 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Sprint Board Update:** Sprint board screenshotları:
 ![Ekran Görüntüsü (571)](https://user-images.githubusercontent.com/104362374/165952058-7b25cba6-5d65-4c58-981a-51992e63e072.png)
 ![image](https://user-images.githubusercontent.com/104362374/167111084-e227db1d-cc8d-41f6-8d65-c54f2b841ebc.png)
+Ürün Durumu:
+Video: https://drive.google.com/file/d/1kr939DHv8ERAJTmelRYtfcjlSbZzjNbK/view?usp=sharing
+- **Sprint Review:** 
+- Level tasarımı için fanusların tasarımı onaylandı.
+- Oyuncuya oyunun nasıl oynandığını öğretmek için oluşturulmuş başlangıç seviyesinin level tasarımı ve mekanikleri onaylandı.
+- Çıkan ürünün çalışmasında ve testlerinde bir problem görülmedi. Oyunun demo hali video kaydına alındı.
+- Hikayenin oyun içerisinde oyuncuya nasıl anlatılacağı üzerine konuşuldu.
+- Aynı projede ortak çalışmaya imkan verecek uygulamaların ikinci sprint görevleri için kullanılmaya başlanması gerektiği konuşuldu.
+- **Sprint Retrospective:**
+- Gameart taskları için görev dağılımına karar verildi.
+- Sprint planlama toplantılarında oksijen seviyesinin gösterimi konusunda gerekli geri bildirimlerin developer'lar tarafından verilmesi gerektiği konuşuldu. 
+- İlk sprint’te tüm taskleri bayram dolayısıyla oluşan iletişim kopukluğu sebebiyle bitiremediğimiz; diğer sprintlerdeki zaman yönetimini ya da backlog adedini daha dikkatli bir şekilde yapmamız gerektiği hakkında konuşuldu.
+# Sprint 2
