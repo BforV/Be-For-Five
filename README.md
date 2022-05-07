@@ -27,7 +27,9 @@ Takım BforV
 - Game Art: Yarı Gerçekçi Tarz - 3D Sanat
 - Kontroller: Klavye + Fare
 ## Hedef Kitle
-- 15 - 65 yaş arası kullanıcılar
+- 15 - 45 yaş arası kullanıcılar
+- FPS oyunlarını sevenler
+- Parkur oyunlarını sevenler
 ## Product Backlog URL
 [Notion Backlog Board and Other Sprint Boards](https://www.notion.so/17c13023263a40e78fe30cefe0b4a09e?v=c1c6433a615741959483ca06b001b6a5)
 
