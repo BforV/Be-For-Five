@@ -10,7 +10,12 @@ Takım BforV
 ## Ürün İsmi
 • 2358
 ## Ürün Açıklaması
-•
+• İnsanların dünyaya verdikleri zararı giderecek bir teknolojiye paralarını yatıran firmalar; farkında olmadan insanlığın ayağına sıkacakları bir teknolojik büyümeye neden olurlar. Ortaya çıkan teknoloji; insanları, yeryüzündeki yaşamın insan yaşamına el vermeyecek durumda olmasından ötürü yerden çok yukarıda bulunan yeni sistemlere kitlemiştir.
+• Karakterimiz, teknolojinin gelişmesine katkı sağlayan ailelerden birinin kızıdır. 
+• Sistemin yönetimine sahip robotlar, yönetimlerinden sorumlu olan ailesini ortadan kaldırmak için onları bir fanusta esir almıştır, oraya kaçırmıştır. Ana karakterimiz de ailesine ulaşmak için zaten karşı olduğu sisteme bir dostuyla birlikte savaş açmıştır. Oyunumuz da böyle başlar.
+• Birbirlerine bağlanmış fanuslar arasındaki engelleri aşıp, düşmanları öldürüp, düşmanlardan çıkan “cash”leri toplayıp, fanusları birbirine bağlayan yazılımı çökerterek sistemi ayaklandırıp bir isyan başlatmış oluyoruz.
+• Görevimiz, son fanusa kadar gelip hem ailemizi hem de insanlığı robotların yönetiminden kurtarmak.
+• Yazılımları verilen süre dahilinde çözmeye çalışmalı, düşmanlardan çıkan “cash”ler ile fanusların arasındaki bağlantıyı koparıp sisteme savaş açmalı, sahip olduğumuz oksijen seviyesine dikkat etmeli, bize sistem hakkında bilgi veren dostumuzu dinlemeli ve oyunun sonuna kadar sıkıntısız bir şekilde ilerlemeliyiz.
 ## Ürün Özellikleri
 - Oyun türü: Aksiyon - FPS
 - Camera: First-person Shooter
