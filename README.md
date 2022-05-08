@@ -54,7 +54,8 @@ Video: https://drive.google.com/file/d/1kr939DHv8ERAJTmelRYtfcjlSbZzjNbK/view?us
 - İlk sprint’teki tüm taskleri bayram dolayısıyla oluşan iletişim kopukluğu ve zaman kısıtı sebebiyle bitiremediğimiz; diğer sprintlerdeki öngörülerimizi daha dikkatli bir şekilde yapmamız gerektiği hakkında konuşuldu.
 - Sprint planlama toplantılarında oksijen seviyesinin gösterimi konusunda gerekli geri bildirimlerin developer'lar tarafından verilmesi gerektiği konuşuldu. 
 - Çalışmalarımızı sağlıklı bir şekilde birleştirebilmek ve birleştirme işlemi için vakit kaybını önlemek adına aynı projede ortak çalışmaya imkan verecek uygulamaların ikinci sprint görevleri için kullanılmaya başlanması gerektiği konuşuldu.
-![image](https://user-images.githubusercontent.com/79532179/167315471-724d5a24-d8bb-48df-86a8-6306032c8333.png)
+
 
 - Projenin test versiyonuna bu linkten ulaşabilirsiniz: https://disk.yandex.com.tr/d/KtdRQ5ORbKIO4g
+![image](https://user-images.githubusercontent.com/79532179/167315471-724d5a24-d8bb-48df-86a8-6306032c8333.png)
 # Sprint 2
