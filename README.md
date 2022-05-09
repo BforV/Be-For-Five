@@ -58,4 +58,6 @@ Video: https://drive.google.com/file/d/1kr939DHv8ERAJTmelRYtfcjlSbZzjNbK/view?us
 
 - Projenin test versiyonuna bu linkten ulaşabilirsiniz: https://disk.yandex.com.tr/d/KtdRQ5ORbKIO4g
 ![image](https://user-images.githubusercontent.com/79532179/167315471-724d5a24-d8bb-48df-86a8-6306032c8333.png)
+
+
 # Sprint 2
