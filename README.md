@@ -39,10 +39,15 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Sprint Board Update:** Sprint board screenshotları:
 ![image](https://user-images.githubusercontent.com/104362374/167271514-539211b8-a61c-4a2a-bdce-f5782ad3567e.png)
 ![image](https://user-images.githubusercontent.com/104362374/167271298-44df21c8-b457-424d-9ba7-86eeb73203ba.png)
+- **Ürün Durumu: Ekran görüntüleri:** 
 ![Ekran Görüntüsü (610)](https://user-images.githubusercontent.com/104362374/167275451-592a6f10-361e-41d0-8d0a-716533119aff.png)
 ![image](https://user-images.githubusercontent.com/104362374/167275667-5f99cb88-0fa6-42b9-a792-102b123f2731.png)
-Ürün Durumu:
-Video: https://drive.google.com/file/d/1kr939DHv8ERAJTmelRYtfcjlSbZzjNbK/view?usp=sharing
+![image](https://user-images.githubusercontent.com/79532179/167315471-724d5a24-d8bb-48df-86a8-6306032c8333.png)
+
+**Video:** https://drive.google.com/file/d/1kr939DHv8ERAJTmelRYtfcjlSbZzjNbK/view?usp=sharing
+
+**Projenin test versiyonuna bu linkten ulaşabilirsiniz:** https://disk.yandex.com.tr/d/KtdRQ5ORbKIO4g
+
 - **Sprint Review:** 
 - Level tasarımı için fanusların tasarımı onaylandı.
 - Oyuncuya oyunun nasıl oynandığını öğretmek için oluşturulmuş başlangıç seviyesinin level tasarımı ve mekanikleri onaylandı.
@@ -54,15 +59,14 @@ Video: https://drive.google.com/file/d/1kr939DHv8ERAJTmelRYtfcjlSbZzjNbK/view?us
 - Sprint planlama toplantılarında oksijen seviyesinin gösterimi konusunda gerekli geri bildirimlerin developer'lar tarafından verilmesi gerektiği konuşuldu. 
 - Çalışmalarımızı sağlıklı bir şekilde birleştirebilmek ve birleştirme işlemi için vakit kaybını önlemek adına aynı projede ortak çalışmaya imkan verecek uygulamaların ikinci sprint görevleri için kullanılmaya başlanması gerektiği konuşuldu.
 
-![image](https://user-images.githubusercontent.com/79532179/167315471-724d5a24-d8bb-48df-86a8-6306032c8333.png)
-**Projenin test versiyonuna bu linkten ulaşabilirsiniz:** https://disk.yandex.com.tr/d/KtdRQ5ORbKIO4g
- 
 # Sprint 2
 
 - **[Daily Scrum:](https://docs.google.com/document/d/1VWN6Nsep-qsdLEW73cqxtWM_dakGvpmljA_oi17dczU/edit?usp=sharing)** 
 
 - **Sprint Board Update:** 
 
+- **Ürün Durumu: Ekran görüntüleri:**
+![image](https://user-images.githubusercontent.com/104362374/169598822-05815beb-b8bd-48dc-82f8-e74673f9deb8.png)
 ![image](https://user-images.githubusercontent.com/104362374/169588941-f5cc8372-5376-4d92-8d9c-e3eb9dbf6c5c.png)
 ![image](https://user-images.githubusercontent.com/104362374/169589087-6da41696-d6c0-455f-a19a-c009cb2f439c.png)
 
