@@ -38,7 +38,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **[Daily Scrum:](https://docs.google.com/document/d/1VWN6Nsep-qsdLEW73cqxtWM_dakGvpmljA_oi17dczU/edit?usp=sharing)** Daily Scrum yazışmalarının WhatsApp toplantılarının Discord üzerinden yapılmasına karar verilmiştir. 
 - **Sprint Board Update:** Sprint board screenshotları:
 ![image](https://user-images.githubusercontent.com/104362374/167271514-539211b8-a61c-4a2a-bdce-f5782ad3567e.png)
-![image](https://user-images.githubusercontent.com/104362374/167271298-44df21c8-b457-424d-9ba7-86eeb73203ba.png)
+![Ekran görüntüsü 2022-05-21 184305](https://user-images.githubusercontent.com/104361343/169659153-a7a7a4fe-ee4d-4893-9f47-359520e33bd7.png)
+
 - **Ürün Durumu: Ekran görüntüleri:** 
 ![Ekran Görüntüsü (610)](https://user-images.githubusercontent.com/104362374/167275451-592a6f10-361e-41d0-8d0a-716533119aff.png)
 ![image](https://user-images.githubusercontent.com/104362374/167275667-5f99cb88-0fa6-42b9-a792-102b123f2731.png)
