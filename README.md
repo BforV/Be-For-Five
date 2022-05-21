@@ -38,7 +38,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **[Daily Scrum:](https://docs.google.com/document/d/1VWN6Nsep-qsdLEW73cqxtWM_dakGvpmljA_oi17dczU/edit?usp=sharing)** Daily Scrum yazışmalarının WhatsApp toplantılarının Discord üzerinden yapılmasına karar verilmiştir. 
 - **Sprint Board Update:** Sprint board screenshotları:
 ![image](https://user-images.githubusercontent.com/104362374/167271514-539211b8-a61c-4a2a-bdce-f5782ad3567e.png)
-![Ekran görüntüsü 2022-05-21 184305](https://user-images.githubusercontent.com/104361343/169659153-a7a7a4fe-ee4d-4893-9f47-359520e33bd7.png)
+![image](https://user-images.githubusercontent.com/104361343/169659331-7a8c3c51-3637-4104-a7c5-952a924c01f1.png)
 
 - **Ürün Durumu: Ekran görüntüleri:** 
 ![Ekran Görüntüsü (610)](https://user-images.githubusercontent.com/104362374/167275451-592a6f10-361e-41d0-8d0a-716533119aff.png)
@@ -66,7 +66,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint Board Update:** 
 - ![Ekran görüntüsü 2022-05-21 183559](https://user-images.githubusercontent.com/104361343/169658922-f2b98af1-a891-4b10-846e-fd548eb1a258.png)
-- ![Ekran görüntüsü 2022-05-21 184305](https://user-images.githubusercontent.com/104361343/169659060-30ca8b1d-e152-4789-9ec8-42f7bda0b356.png)
+- ![Ekran görüntüsü 2022-05-21 184305](https://user-images.githubusercontent.com/104361343/169659370-66d674c4-a320-4cda-bfc9-a88869409c7a.png)
+
 
 - **Ürün Durumu: Ekran görüntüleri:**
 ![image](https://user-images.githubusercontent.com/104362374/169598822-05815beb-b8bd-48dc-82f8-e74673f9deb8.png)
