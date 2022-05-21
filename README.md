@@ -65,7 +65,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **[Daily Scrum:](https://docs.google.com/document/d/1VWN6Nsep-qsdLEW73cqxtWM_dakGvpmljA_oi17dczU/edit?usp=sharing)** 
 
 - **Sprint Board Update:** 
-- ![Ekran görüntüsü 2022-05-21 183559](https://user-images.githubusercontent.com/104361343/169658922-f2b98af1-a891-4b10-846e-fd548eb1a258.png)
+- ![image](https://user-images.githubusercontent.com/104361343/169659438-1df30c5d-86d3-44d2-aa28-c0cb4c04574d.png)
 - ![Ekran görüntüsü 2022-05-21 184305](https://user-images.githubusercontent.com/104361343/169659370-66d674c4-a320-4cda-bfc9-a88869409c7a.png)
 
 
