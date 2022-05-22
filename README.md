@@ -78,16 +78,16 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![image](https://user-images.githubusercontent.com/104362374/169589087-6da41696-d6c0-455f-a19a-c009cb2f439c.png)
 
 - **Sprint Review:** 
--Fanusların tasarımı ve dekor modellerin eklenmesi tamamlandı. Ateş eden düşman modelleri eklenecek.
--Karakter mekanikleri büyük oranda tamamlandı ve onaylandı. Düşman mekanikleri ile devam edilecek.
--Satın alma mekaniği için sonraki toplantıda karar verilecek. Bu mekanik yapılmayacaksa arayüzde görünecek barların mekaniğine geçilecek. 
--Çıkan ürünün çalışmasında ve testlerinde bir problem görülmedi. Fanusların tasarım sorunsuz ana projeye aktarılabildi. 
--Hikayenin oyun içerisinde oyuncuya nasıl anlatılacağının text olarak yazılacak yönlendirmelerin detayları üzerine konuşuldu.
+- Fanusların tasarımı ve dekor modellerin eklenmesi tamamlandı. Ateş eden düşman modelleri eklenecek.
+- Karakter mekanikleri büyük oranda tamamlandı ve onaylandı. Düşman mekanikleri ile devam edilecek.
+- Satın alma mekaniği için sonraki toplantıda karar verilecek. Bu mekanik yapılmayacaksa arayüzde görünecek barların mekaniğine geçilecek. 
+- Çıkan ürünün çalışmasında ve testlerinde bir problem görülmedi. Fanusların tasarım sorunsuz ana projeye aktarılabildi. 
+- Hikayenin oyun içerisinde oyuncuya nasıl anlatılacağının text olarak yazılacak yönlendirmelerin detayları üzerine konuşuldu.
 
 - **Sprint Retrospective:**
--Oyun sanatı ve oyun gelişme taskları için görev dağılımına karar verildi. herkesin görevine başladığı teyit edildi.
--Oluşan iletişim kopukluklarını çözmek için gerekli adımlar atıldı. Sonraki sprintin ilk haftası gecikmelerin telafisinin yapılması ve ekibin sınav döneminin için göz önüne alınması için uyarılar yapıldı.
--Aynı projede ortak çalışmaya imkan veren SCM Plastic uygulamasının kullanımına faydalı ve başarılı şekilde başladı ve devam ettirileceği konuşuldu.
+- Oyun sanatı ve oyun gelişme taskları için görev dağılımına karar verildi. herkesin görevine başladığı teyit edildi.
+- Oluşan iletişim kopukluklarını çözmek için gerekli adımlar atıldı. Sonraki sprintin ilk haftası gecikmelerin telafisinin yapılması ve ekibin okul sınav dönemlerinin göz önüne alınması için uyarılar yapıldı.
+- Aynı projede ortak çalışmaya imkan veren SCM Plastic uygulamasının kullanımına faydalı ve başarılı şekilde başladı ve devam ettirileceği konuşuldu.
  
 # Sprint 3
 
