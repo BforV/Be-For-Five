@@ -70,8 +70,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **[Daily Scrum:](https://docs.google.com/document/d/1VWN6Nsep-qsdLEW73cqxtWM_dakGvpmljA_oi17dczU/edit?usp=sharing)** Daily Scrum yazışmalarının WhatsApp toplantılarının Discord üzerinden yapılmasına karar verilmiştir. 
 
 ## Product Backlog URL
-- **[Miro Backlog Board](https://miro.com/welcomeonboard/V0dnSmZFcENNeHk4dTJYSlFobk9vOTM4SEhoSW1jbTZENkRqakRzMllrTDlpTXhnNTNCa2ZFOVRFSHN0dzZFanwzMDc0NDU3MzUyMzE3NzYzOTA0?share_link_id=435421733617)
-- **[Notion Backlog Board and Other Sprint Boards](https://www.notion.so/17c13023263a40e78fe30cefe0b4a09e?v=c1c6433a615741959483ca06b001b6a5)
+- **[Miro Backlog Board]**(https://miro.com/welcomeonboard/V0dnSmZFcENNeHk4dTJYSlFobk9vOTM4SEhoSW1jbTZENkRqakRzMllrTDlpTXhnNTNCa2ZFOVRFSHN0dzZFanwzMDc0NDU3MzUyMzE3NzYzOTA0?share_link_id=435421733617)
+- **[Notion Backlog Board and Other Sprint Boards]**(https://www.notion.so/17c13023263a40e78fe30cefe0b4a09e?v=c1c6433a615741959483ca06b001b6a5)
 
 - **Sprint Board Update:** 
 - ![image](https://user-images.githubusercontent.com/104361343/169659438-1df30c5d-86d3-44d2-aa28-c0cb4c04574d.png)
