@@ -82,7 +82,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![image](https://user-images.githubusercontent.com/104362374/169588941-f5cc8372-5376-4d92-8d9c-e3eb9dbf6c5c.png)
 ![image](https://user-images.githubusercontent.com/104362374/169589087-6da41696-d6c0-455f-a19a-c009cb2f439c.png)
 
-**Projendeki fanusların gösterildiği videoya buradan ulaşabilirsiniz:** https://drive.google.com/file/d/10BNBScmHyWxMtys4GMZkgAwZkq8EqBnx/view?usp=sharing
+**Projedeki fanusların gösterildiği videoya buradan ulaşabilirsiniz:** https://drive.google.com/file/d/10BNBScmHyWxMtys4GMZkgAwZkq8EqBnx/view?usp=sharing
 
 - **Sprint Review:** 
 - Fanusların tasarımı ve dekor modellerin eklenmesi tamamlandı. Ateş eden düşman modelleri ve engeller eklenecek.
