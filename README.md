@@ -67,7 +67,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 - **[Daily Scrum:](https://docs.google.com/document/d/1VWN6Nsep-qsdLEW73cqxtWM_dakGvpmljA_oi17dczU/edit?usp=sharing)** Daily Scrum yazışmalarının WhatsApp toplantılarının Discord üzerinden yapılmasına karar verilmiştir. 
-- 
+
 - **Sprint Board Update:** 
 - ![image](https://user-images.githubusercontent.com/104361343/169659438-1df30c5d-86d3-44d2-aa28-c0cb4c04574d.png)
 - ![Ekran görüntüsü 2022-05-21 184305](https://user-images.githubusercontent.com/104361343/169659370-66d674c4-a320-4cda-bfc9-a88869409c7a.png)
