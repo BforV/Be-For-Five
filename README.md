@@ -90,7 +90,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - Oyun içerisinde text olarak yazılacak yönlendirmelerin detayları üzerine konuşuldu.
 
 - **Sprint Retrospective:**
-- Oyun sanatı ve oyun gelişme taskları için görev dağılımına karar verildi. Herkesin görevine başladığı teyit edildi.
+- Oyun sanatı ve oyun geliştirme taskları için görev dağılımına karar verildi. Herkesin görevine başladığı teyit edildi.
 - Oluşan iletişim kopukluklarını çözmek için gerekli adımlar atıldı. 
 - Sonraki sprintin ilk haftası gecikmelerin telafisinin yapılması ve ekibin okul sınav dönemlerinin göz önüne alınması için uyarılar yapıldı.
 - Aynı projede ortak çalışmaya imkan veren SCM Plastic uygulamasının kullanımına başlandı, faydalı bulundu ve devam ettirileceği konuşuldu.
