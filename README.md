@@ -57,7 +57,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Sprint Retrospective:**
 - Gameart taskları için görev dağılımına karar verildi.
 - İlk sprint’teki tüm taskleri bayram dolayısıyla oluşan iletişim kopukluğu ve zaman kısıtı sebebiyle bitiremediğimiz; diğer sprintlerdeki öngörülerimizi daha dikkatli bir şekilde yapmamız gerektiği hakkında konuşuldu.
-- Sprint planlama toplantılarında oksijen seviyesinin gösterimi konusunda gerekli geri bildirimlerin developer'lar tarafından verilmesi gerektiği konuşuldu. 
+- Sprint planlama toplantılarında oksijen seviyesinin gösterimi konusunda gerekli geri bildirimlerin Developer'lar tarafından verilmesi gerektiği konuşuldu. 
 - Çalışmalarımızı sağlıklı bir şekilde birleştirebilmek ve birleştirme işlemi için vakit kaybını önlemek adına aynı projede ortak çalışmaya imkan verecek uygulamaların ikinci sprint görevleri için kullanılmaya başlanması gerektiği konuşuldu.
 
 # Sprint 2
@@ -80,15 +80,15 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Sprint Review:** 
 - Fanusların tasarımı ve dekor modellerin eklenmesi tamamlandı. Ateş eden düşman modelleri ve engeller eklenecek.
 - Karakter mekanikleri büyük oranda tamamlandı ve onaylandı. Düşman mekanikleri ile devam edilecek.
-- Satın alma mekaniğindeki ilerleme konusunda gerekli geri bildirimlerin developer'lar tarafından verilmesi konuşuldu. Bu mekanikten sonra arayüzde görünecek barların mekaniğinin ana projeye entegre edilmesine geçilecek. 
-- Çıkan ürünün çalışmasında ve testlerinde bir problem görülmedi. Fanuslar sorunsuz ana projeye aktarılabiliyor. Fakat gerekli düzeltmeler yapılıp ana projeye aktarılmak üzere tekrar atılacak.
+- Satın alma mekaniğindeki ilerleme konusunda gerekli geri bildirimlerin Developer'lar tarafından verilmesi konuşuldu. Bu mekanikten sonra arayüzde görünecek barların mekaniğinin ana projeye entegre edilmesine geçilecek. 
+- Çıkan ürünün çalışmasında ve testlerinde bir problem görülmedi. Fanuslar materyelleri ile sorunsuz ana projeye aktarılabiliyor. Fakat karakterin içinde dolaşabilmesi için gerekli düzeltmeler yapılıp ana projeye aktarılmak üzere tekrar gönderilecek.
 - Oyun içerisinde text olarak yazılacak yönlendirmelerin detayları üzerine konuşuldu.
 
 - **Sprint Retrospective:**
 - Oyun sanatı ve oyun gelişme taskları için görev dağılımına karar verildi. Herkesin görevine başladığı teyit edildi.
 - Oluşan iletişim kopukluklarını çözmek için gerekli adımlar atıldı. 
 - Sonraki sprintin ilk haftası gecikmelerin telafisinin yapılması ve ekibin okul sınav dönemlerinin göz önüne alınması için uyarılar yapıldı.
-- Aynı projede ortak çalışmaya imkan veren SCM Plastic uygulamasının kullanımına faydalı ve başarılı şekilde başladı ve devam ettirileceği konuşuldu.
+- Aynı projede ortak çalışmaya imkan veren SCM Plastic uygulamasının kullanımına faydalı ve başarılı şekilde başlandı ve devam ettirileceği konuşuldu.
  
 # Sprint 3
 
