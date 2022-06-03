@@ -115,7 +115,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Ürün Durumu:** MVP
 - **[Kullanılan Assetler:](https://drive.google.com/drive/folders/1fJu9i-MfrJFsCnjtEmG2g2cvWGZThdja?usp=sharing)**
-- **Ekran görüntüleri:**
+- **Ekran Görüntüleri:**
 ![WhatsApp Image 2022-06-03 at 16 10 54](https://user-images.githubusercontent.com/104362374/171963118-2631bd1f-a770-4a55-bc73-003964023c49.jpeg)
 ![WhatsApp Image 2022-06-01 at 23 52 52](https://user-images.githubusercontent.com/104362374/171963134-f6356af5-455f-4ab4-bd3b-e2bb84a7dc35.jpeg)
 - **Sprint Review:** 
