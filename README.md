@@ -100,9 +100,22 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
  
 # Sprint 3
 
-- **[Daily Scrum:](https://docs.google.com/document/d/1VWN6Nsep-qsdLEW73cqxtWM_dakGvpmljA_oi17dczU/edit?usp=sharing)** 
+- **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Miro'da ve Notion'da Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+- **Sprint içinde tamamlanması tahmin edilen puan:** 200 Puan
+- **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 550 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in en azından 150  olması gerektiğine karar verildi.
+- **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+- **[Daily Scrum:](https://docs.google.com/document/d/1VWN6Nsep-qsdLEW73cqxtWM_dakGvpmljA_oi17dczU/edit?usp=sharing)** Daily Scrum yazışmalarının WhatsApp toplantılarının Discord üzerinden yapılmasına karar verilmiştir. 
+
+## Product Backlog URL
+- **[Miro Backlog Board](https://miro.com/welcomeonboard/V0dnSmZFcENNeHk4dTJYSlFobk9vOTM4SEhoSW1jbTZENkRqakRzMllrTDlpTXhnNTNCa2ZFOVRFSHN0dzZFanwzMDc0NDU3MzUyMzE3NzYzOTA0?share_link_id=435421733617)**
+- **[Notion Backlog Board and Other Sprint Boards](https://www.notion.so/17c13023263a40e78fe30cefe0b4a09e?v=c1c6433a615741959483ca06b001b6a5)**
 
 - **Sprint Board Update:** 
+
+- **Ürün Durumu: Ekran görüntüleri:**
+![WhatsApp Image 2022-06-03 at 16 10 54](https://user-images.githubusercontent.com/104362374/171963118-2631bd1f-a770-4a55-bc73-003964023c49.jpeg)
+![WhatsApp Image 2022-06-01 at 23 52 52](https://user-images.githubusercontent.com/104362374/171963134-f6356af5-455f-4ab4-bd3b-e2bb84a7dc35.jpeg)
 
 - **Sprint Review:** 
 
