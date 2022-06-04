@@ -113,7 +113,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint Board Update:** 
 - ![image](https://user-images.githubusercontent.com/104361343/172023985-739a2aaf-d881-436c-9f02-68fe6291c71a.png)
-![Ekran görüntüsü 2022-06-04 230826](https://user-images.githubusercontent.com/104361343/172024031-b4288eae-3c5e-44fc-a038-98519d3cc902.png)
+!![Ekran görüntüsü 2022-06-04 230826](https://user-images.githubusercontent.com/104361343/172024568-cec0d2cb-aa97-4504-bf6e-1874481f4aa7.png)
 
 - **Ürün Durumu:** MVP
 - **[Kullanılan Assetler](https://drive.google.com/drive/folders/1fJu9i-MfrJFsCnjtEmG2g2cvWGZThdja?usp=sharing)**
