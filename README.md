@@ -112,6 +112,8 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **[Notion Backlog Board and Other Sprint Boards](https://www.notion.so/17c13023263a40e78fe30cefe0b4a09e?v=c1c6433a615741959483ca06b001b6a5)**
 
 - **Sprint Board Update:** 
+- ![image](https://user-images.githubusercontent.com/104361343/172023985-739a2aaf-d881-436c-9f02-68fe6291c71a.png)
+![Ekran görüntüsü 2022-06-04 230826](https://user-images.githubusercontent.com/104361343/172024031-b4288eae-3c5e-44fc-a038-98519d3cc902.png)
 
 - **Ürün Durumu:** MVP
 - **[Kullanılan Assetler](https://drive.google.com/drive/folders/1fJu9i-MfrJFsCnjtEmG2g2cvWGZThdja?usp=sharing)**
