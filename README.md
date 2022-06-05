@@ -120,6 +120,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Ekran Görüntüleri:**
 ![WhatsApp Image 2022-06-03 at 16 10 54](https://user-images.githubusercontent.com/104362374/171963118-2631bd1f-a770-4a55-bc73-003964023c49.jpeg)
 ![WhatsApp Image 2022-06-01 at 23 52 52](https://user-images.githubusercontent.com/104362374/171963134-f6356af5-455f-4ab4-bd3b-e2bb84a7dc35.jpeg)
+![WhatsApp Image 2022-06-04 at 8 41 37 PM](https://user-images.githubusercontent.com/104361343/172041187-b0233595-aebf-4fbd-a5b1-670c5685247b.jpeg)
+![WhatsApp Image 2022-06-03 at 12 46 12 AM](https://user-images.githubusercontent.com/104361343/172041188-f2cee596-5b51-417e-9504-745551267824.jpeg)
+
+
 - **Sprint Review:** 
 
 - **Sprint Retrospective:**
