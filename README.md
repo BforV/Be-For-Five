@@ -125,17 +125,17 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 - **Sprint Review:** 
-- •	UI tasarımı için uygun asset’ler ve font’lar bulundu ve mekanikleri yazıldı. Oyuna başarıyla entegre edildi. 
-•	UI ve oyun için kullanılacak müzikler ve sesler tamamlandı. Başarıyla çalıştırıldı.
-•	Oyun içerisine oyunun nasıl oynandığını göstermek için yönlendirmeler yazıldı. Ek olarak, oyuncunun oyun hikayesine ulaşmasını sağlayacak bir sekme eklendi.
-•	Düşmanlarımızın bizi belirli bir alana girdiğimizde takip etmesini sağlayacak NavMesh sistemi kuruldu. Sprint’in sonlarına doğru düşmanların saldırma mekanikleri üzerine çalışmaya başladık.
-•	Sahnelerin ve UI ekranlarının birbirlerine bağlantısı sağlandı ve sorunsuz çalıştığı rapor edildi. Aynı şekilde fanuslar ve platformlar da birbirine bağlandı.
-•	Oyuna “coins” mekanikleri başarıyla eklendi. Aynı şekilde karakterimiz ateş edebiliyor, şarjör değiştirebiliyor ve nişan alabiliyor.
+-	UI tasarımı için uygun asset’ler ve font’lar bulundu ve mekanikleri yazıldı. Oyuna başarıyla entegre edildi. 
+-	UI ve oyun için kullanılacak müzikler ve sesler tamamlandı. Başarıyla çalıştırıldı.
+-	Oyun içerisine oyunun nasıl oynandığını göstermek için yönlendirmeler yazıldı. Ek olarak, oyuncunun oyun hikayesine ulaşmasını sağlayacak bir sekme eklendi.
+-	Düşmanlarımızın bizi belirli bir alana girdiğimizde takip etmesini sağlayacak NavMesh sistemi kuruldu. Sprint’in sonlarına doğru düşmanların saldırma mekanikleri üzerine çalışmaya başladık.
+-	Sahnelerin ve UI ekranlarının birbirlerine bağlantısı sağlandı ve sorunsuz çalıştığı rapor edildi. Aynı şekilde fanuslar ve platformlar da birbirine bağlandı.
+-	Oyuna “coins” mekanikleri başarıyla eklendi. Aynı şekilde karakterimiz ateş edebiliyor, şarjör değiştirebiliyor ve nişan alabiliyor.
 
 
 - **Sprint Retrospective:**
-•	Önceki “sprint”te yaşadığımız iletişim kopukluklarının bu iki haftalık süreçte çok daha azaldığı anlaşıldı.
-•	SCM uygulamasında çıkan birkaç sorunu çözmek için neler yapılabilir diye konuşuldu ve sorunlar halledildi.
-•	Oyunu sisteme yüklemek ve bir dakikalık tanıtım videosu için görev paylaşımı yapıldı.
-•	Zaman kontrolünde biraz saptığımızı fark ettiğimiz için ürün durumunu MVP’ye çevirmenin en doğru yol olacağına takımca karar verildi ve gerekli adımlar atıldı.
+-	Önceki “sprint”te yaşadığımız iletişim kopukluklarının bu iki haftalık süreçte çok daha azaldığı anlaşıldı.
+-	SCM uygulamasında çıkan birkaç sorunu çözmek için neler yapılabilir diye konuşuldu ve sorunlar halledildi.
+-	Oyunu sisteme yüklemek ve bir dakikalık tanıtım videosu için görev paylaşımı yapıldı.
+-	Zaman kontrolünde biraz saptığımızı fark ettiğimiz için ürün durumunu MVP’ye çevirmenin en doğru yol olacağına takımca karar verildi ve ve gerekli adımlar atıldı.
 
