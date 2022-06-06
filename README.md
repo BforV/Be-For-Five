@@ -116,7 +116,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 !![Ekran görüntüsü 2022-06-06 222724](https://user-images.githubusercontent.com/104361343/172233492-d0dc22b9-9835-4566-80cb-abf4ca84c307.png)
 
 - **Ürün Durumu:** MVP
-- **[Kullanılan Assetler](https://drive.google.com/drive/folders/1fJu9i-MfrJFsCnjtEmG2g2cvWGZThdja?usp=sharing)**
+- **[Kullanılan Assetler][(https://drive.google.com/drive/folders/1fJu9i-MfrJFsCnjtEmG2g2cvWGZThdja?usp=sharing)](https://docs.google.com/document/d/1oCS1LeBAsXTHc5gAFXm8Ay9Ad48WF5S3/edit?usp=sharing&ouid=104284164414924794169&rtpof=true&sd=true)**
 - **Ekran Görüntüleri:**
 ![WhatsApp Image 2022-06-03 at 16 10 54](https://user-images.githubusercontent.com/104362374/171963118-2631bd1f-a770-4a55-bc73-003964023c49.jpeg)
 ![WhatsApp Image 2022-06-01 at 23 52 52](https://user-images.githubusercontent.com/104362374/171963134-f6356af5-455f-4ab4-bd3b-e2bb84a7dc35.jpeg)
