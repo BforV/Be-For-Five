@@ -1,0 +1,4 @@
+repository "BforV Plastic SCM@ravensho@cloud"
+  path "/"
+    br "/main"
+    co "/main"

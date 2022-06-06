@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Sahne1.unity
+    guid: 4919d8439916cad46bd066fdad624ce8
+  - enabled: 1
+    path: Assets/Scenes/Sahne2.unity
+    guid: d8af1af72d1536547acde2ffb8553975
+  - enabled: 1
+    path: Assets/Scenes/Sahne3.unity
+    guid: 1603204cb85d7854785f1ab89d43135c
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9eb07e2d669e9c94e9d7d3c782a916f7,
+      type: 2}
